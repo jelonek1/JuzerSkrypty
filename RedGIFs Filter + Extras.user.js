@@ -7,7 +7,7 @@
 // @match        https://www.redgifs.com/*
 // @exclude      https://www.redgifs.com/watch/*
 // @grant        none
-// @updateURL    https://gist.github.com/jelonek1/113013fb930101082ee8a764d9f279e6/raw/160e1d6836bb4b22402995d289cf040e9ef728f7/redgifs-blacklist.user.js
+// @updateURL    
 // ==/UserScript==
 
 (function() {
