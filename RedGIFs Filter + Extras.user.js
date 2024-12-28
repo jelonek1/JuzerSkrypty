@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Redgifs Blacklist + QoL
 // @namespace    https://gist.github.com/hazushi3
-// @version      1.2 (anty-homo-i-LPG)
+// @version      1.4 (anty-homo-i-LPG)
 // @description  Filtr postów na stronie redgifs.com po wymienionych w skrypcie tagach, auto włączanie dźwięku pozostałym i wyłączenie ukrytym.
 // @author       hazushi3, reworked by jelonek1
 // @match        https://www.redgifs.com/*
