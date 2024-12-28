@@ -12,7 +12,7 @@
 
 (function() {
     'use strict';
-    const blacklist = ["*trans*", "*dick*", "male*", "CBT", "*ladyboy*", "*piss*", "*pee*", "3D", "*femboy*", "*gay*"]; //example tags, it's not case senstive, use * for wildcard
+    const blacklist = ["*trans*", "*dick*", "male*", "CBT", "*ladyboy*", "*piss*", "*pee*", "*3D*", "*femboy*", "*gay*"]; //example tags, it's not case senstive, use * for wildcard
     const regexPatterns = blacklist.map(pattern => new RegExp(`^${pattern.replace(/\*/g, ".*")}$`, "i")); //support wildcard
 
     function checkAndHidePosts() {
